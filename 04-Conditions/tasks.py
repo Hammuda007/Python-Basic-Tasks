@@ -136,7 +136,7 @@ else :
     print('3 not in the list ')
 '''
 # 4- check if 2 ,4 and 5 in this list
-
+'''
 x= [2,4,6,8,10]
 if all([x==2, x==4, x==5]):
     print ('all parameters in the list')
@@ -145,7 +145,7 @@ if all([x==2, x==4, x==5]):
 
 else :
     print('all parameters is not  in the list')
-
+'''
 
 
 
