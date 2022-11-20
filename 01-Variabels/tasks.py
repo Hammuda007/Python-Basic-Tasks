@@ -47,15 +47,15 @@ z={1: 'Muhammed', 2: 'Mahmoud', 3: 'Ali'}
 
 
 # 11 : Can we use semi colon ; with Python ?
-
+'''
 Python does not  use Semicolons but it is not restricted
-
+'''
 # 12 : Python is  interpreted or compiled ?
-
+'''
 interpreted
-
+'''
 # 13 : What is the different between low level and high level ?
-
+'''
 low level: The language of the computer
 It consists of 1 , 0
 it is easy to be Executed
@@ -68,7 +68,7 @@ Takes less time to be coded
 Easy to be corrected
 Portable (only one program can run on any pc)
 Like java , c# & python
-
+'''
 
  
 

@@ -11,7 +11,17 @@
 
 # 3 : what is the operator precedence ?
 '''
-(),**, /or//,*, +,-
+()
+
+**
+
+//
+
+*
+
++
+
+-
 '''
 
 # 4 : Create a variabel x with value of 10
@@ -49,6 +59,6 @@ x/=3
 print(x)
 
 # 12 : Can we divid 11 by 3 and get an int number
-
+'''
 yes with //=  
-
+'''
