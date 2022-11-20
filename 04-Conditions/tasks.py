@@ -61,14 +61,10 @@ no, we can not , because else uses if the condition flase is
 # 11 : Write s simple ternary operator
 '''
 x = 17
-if x> 20 :
-    print (' x is not bigger than 20')
-elif x==17:
-    print (' x is a true value ')
+print (' x is not bigger than 20') if x> 20  else print('false')
+'''    
 
-else :
-    print('none')
-'''
+
 
 # 12 : In elif , python will check all the conditions no matter what
 '''
