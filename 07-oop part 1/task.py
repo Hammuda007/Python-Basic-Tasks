@@ -35,14 +35,16 @@ class Calc:
 
 class Calc:
     def sum(self,x,y):
-        print(x+y)
+        result=x+y
+        return result
 
 
 # 6  The mull method return the multiplication of the arguments x and y
 
 class Calc:
     def mull(self,x,y):
-        print(x*y)
+        result=x*y
+        return result
 
 
 # 7 Take an object from the class
